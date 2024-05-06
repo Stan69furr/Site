@@ -54,6 +54,7 @@ header {
  .estudante-todos {
     display: flex;
     padding: 80px 0px;
+    padding-left: 40px 0px;
  }
 footer {
     background-color: black;

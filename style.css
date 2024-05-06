@@ -50,6 +50,7 @@ header {
 }
 .estudante-imagem{
     width: 200px;
+    padding: 40px 0px;
     }
  .estudante-todos {
     display: flex;
